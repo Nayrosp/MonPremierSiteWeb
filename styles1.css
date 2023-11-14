@@ -1,0 +1,39 @@
+body {
+    /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+    background-image: url(background\ site\ web.jpg) ;
+    text-align: justify;
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    text-align: justify;
+    padding: 16px;
+    margin: 50px;
+}
+
+a {
+    color: aliceblue;
+    font-style: normal;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 1.3em;
+
+}
+
+h2 {
+    color: aliceblue;
+    font-size: 1.3em;
+}
+
+h3 {
+    color: aliceblue;
+    font-size: 1.3em;
+}
